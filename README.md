@@ -1,6 +1,6 @@
 # Flash Light Made With Unity
  A FlashLight made to use in Unity for horror games or exploring games.</br>
- Script can be found in Flash-Light-Made-With-Unity/Flashlight/Assets/Flashlight</br>
+ Scripts alone can be found in Flash-Light-Made-With-Unity/Flashlight/Assets/Flashlight if you do not want the complete project file.</br>
 
 #Fully configurable base struture of a Flash Light system in unity.</br>
  You can change the light settings from the script in the inspector.</br>
